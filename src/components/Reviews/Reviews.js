@@ -1,9 +1,10 @@
 import React from 'react';
 
+
 const Reviews = () => {
     return (
-        <div>
-            <h2>All reviews will be here!</h2>
+        <div >
+            <h1>Reviews</h1>
         </div>
     );
 };
