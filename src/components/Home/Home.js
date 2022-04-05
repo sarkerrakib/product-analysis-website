@@ -27,10 +27,10 @@ const Home = () => {
                             <div className="card">
                                 <div className="face front-face"> <img src="https://images.unsplash.com/photo-1557862921-37829c790f19?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80" alt="" className="profile"/>
                                     <div className="pt-3 text-uppercase name"> Robert Garrison </div>
-                                    <div className="designation">Ratings: 5</div>
+                                    <div className="designation">Ratings: 5 of 5</div>
                                 </div>
                                 <div className="face back-face"> <span className="fas fa-quote-left"></span>
-                                    <div className="testimonial"> I made bacck the purchase price in just 48 hours! Thank you for making it pain less, pleasant. The service was execellent. I will refer everyone I know. </div> <span className="fas fa-quote-right"></span>
+                                    <div className="testimonial"> This laptop is unbelievably fast. Between the screen, battery life, and performance, this laptop is head and shoulders better than any competition. </div> <span className="fas fa-quote-right"></span>
                                 </div>
                             </div>
                         </div>
@@ -38,10 +38,10 @@ const Home = () => {
                             <div className="card">
                                 <div className="face front-face"> <img src="https://images.unsplash.com/photo-1600486913747-55e5470d6f40?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="" className="profile"/>
                                     <div className="pt-3 text-uppercase name"> Jeffery Kennan </div>
-                                    <div className="designation">Full Stack Developer</div>
+                                    <div className="designation">Ratings: 4.5 of 5</div>
                                 </div>
                                 <div className="face back-face"> <span className="fas fa-quote-left"></span>
-                                    <div className="testimonial"> Really good, you have saved our business! I made bacck the purchase price in just 48 hours! man, this thing is getting better and better as I learn more about it. </div> <span className="fas fa-quote-right"></span>
+                                    <div className="testimonial"> Here are the temperature results for the new cool MacBooks compared to the old overheating intel ones. 91 degrees for the old one near the processor, and 74 degrees on the new ones. Both had been running for hours transferring files nonstop. Amazing. </div> <span className="fas fa-quote-right"></span>
                                 </div>
                             </div>
                         </div>
@@ -49,14 +49,16 @@ const Home = () => {
                             <div className="card">
                                 <div className="face front-face"> <img src="https://images.unsplash.com/photo-1614574762522-6ac2fbba2208?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjY2fHxtYW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="" className="profile"/>
                                     <div className="pt-3 text-uppercase name"> Issac Maxwell </div>
-                                    <div className="designation">Finance Director</div>
+                                    <div className="designation">Ratings: 5 of 5</div>
                                 </div>
                                 <div className="face back-face"> <span className="fas fa-quote-left"></span>
-                                    <div className="testimonial"> Account keeper is the most valuable business research we have EVER purchased. Without electrician, we would ahave gone bankrupt by now. </div> <span className="fas fa-quote-right"></span>
+                                    <div className="testimonial"> Clarity of the screen and improved speed were offset, for me, with a lack of a USB port, no DVD port, and still no compatibility with some apps that I would use. For me, I ended up having to buy an adapter for other devices which revealed that with the adapter plugged in I could not attach the power cord. </div> <span className="fas fa-quote-right"></span>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <a href="http://localhost:3000/reviews"> <button type="button" class="views btn btn-primary mt-5 ">View all the Reviews</button></a>
+                   
                 </div>
             </div>
 
