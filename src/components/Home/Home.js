@@ -1,7 +1,13 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import './Home.css';
 
 const Home = () => {
+    const navigate = useNavigate()
+    const reviewsBtn = ()=>{
+        const path ='/reviews'
+        navigate(path)
+    }
     return (
         <div className='container'>
             <div>
@@ -57,7 +63,7 @@ const Home = () => {
                             </div>
                         </div>
                     </div>
-                    <a href="http://localhost:3000/reviews"> <button type="button" class="views btn btn-primary mt-5 ">View all the Reviews</button></a>
+                    <button onClick={reviewsBtn} type="button" class="views btn btn-primary mt-5 ">View all the Reviews</button>
                    
                 </div>
             </div>
