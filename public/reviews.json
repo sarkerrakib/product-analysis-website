@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+    "name": "Anon",
+    "review": "This laptop is unbelievably fast. Between the screen, battery life, and performance, this laptop is head and shoulders better than any competition.",
+    "ratings": 5,
+  },
+  {
+    "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+    "name": "Asha R.",
+    "review": "Here are the temperature results for the new cool MacBooks compared to the old overheating intel ones. 91 degrees for the old one near the processor, and 74 degrees on the new ones. Both had been running for hours transferring files nonstop. Amazing. I have been editing video, transferring large files and not once have the fans kicked on. Makes me want to cry.",
+    "ratings": 5,
+  },
+  {
+    "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+    "name": "Aron F.",
+    "review": "I have been a pc user my entire life and took the plunge into the apple platform with this 16 MacBook Pro and it is simple bliss. The speed is mind blowing, the screen beautiful, I can not find anything bad to say. You should get a shell case to keep safe (as seen in photos) I got the base model and am happy as can be with it, I think if I had gotten the more spec out model my head may have exploded.",
+    "ratings": 5,
+  },
+  {
+    "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+    "name": "David",
+    "review": "Clarity of the screen and improved speed were offset, for me, with a lack of a USB port, no DVD port, and still no compatibility with some apps that I would use. For me, I ended up having to buy an adapter for other devices which revealed that with the adapter plugged in I could not attach the power cord.",
+    "ratings": 5,
+  },
+  {
+    "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+    "name": "Lahr",
+    "review": "There’s nothing to dislike about this laptop. It’s fast, the graphics are INSANE, it runs so many applications at once flawlessly. It’s better than I had hoped for. Price was a bit scary at first but we use it for my wife’s photography business and Photoshop/Lightroom work perfectly without issue and the quality of the machine is well worth the price.",
+    "ratings": 5,
+  },
+  {
+    "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+    "name": "Alex C.",
+    "review": "I've been working so far one month with this laptop and by far is the best one I've used. It does not make any sound (using the same kind of edition and programming apps with an intel 2019 version, which is quite noisy). It does not heat neither. The only pitfall so far I've seen is that still after 1 year of having ARM based processors, some apps still ",
+    "ratings": 5,
+  }
+]
